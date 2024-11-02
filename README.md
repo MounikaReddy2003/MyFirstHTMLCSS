@@ -1,2 +1,2 @@
-# MyFirstHTMLCSS
-Here,This is my first sample project on HTML and CSS
+Here is a Sample HTML and CSS project
+
